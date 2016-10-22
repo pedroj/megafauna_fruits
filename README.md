@@ -284,9 +284,9 @@ Pedro
 
 
 ### THE DATA FILES
-To download these files, click and hold on the filename and choose 'Save link to disk...'.
+To download these files, please clone or download this GitHub repository to your desktop.
 
-The Megafauna Dataset, .xls format.
+The Megafauna Dataset, `megafauna_fruits_dataset.xls`, in .xls format.
 
 ----------------
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
