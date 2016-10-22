@@ -40,11 +40,17 @@ Please, contact me if you have suggestions, find errors, inconsistencies, or any
 Variable names in the Megafaunal Fruits Dataset
 
 `CL Class`
+
 `SCL SubClass`
+
 `ORD Order`
+
 `FAM Family`
+
 `GEN Genus`
+
 `SP Species`
+
 
 `REF` Reference number - This is my maintenance code for updates.
 `NEWREF` New Reference number - These are the refs numbers in the files REFS and SUMMARY.
