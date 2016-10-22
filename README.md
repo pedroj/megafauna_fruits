@@ -90,18 +90,31 @@ Variable names in the Megafaunal Fruits Dataset
 `DIAM` Fruit diameter (mm)
 
 `FRFM` Fruit fresh mass (g)
+
 `PDM` Dry mass of pulp per fruit (g)
+
 `SDM` Dry mass of seed(s) per fruit (g)
+
 `SEEDS` Number of seeds per fruit
+
 `SEEDM` Seed dry mass (g)
+
 `RY` Relative yield of pulp (`PDM/FRFM*100`)
+
 `KJG` Specific energy content of pulp (kJ/g)
+
 `KJFR` Total energy content per fruit (kJ)
+
 `PCW` Percent water content of fruit
+
 `LIP` Proportion of lipids (per g dry pulp)
+
 `PRO` Proportion of protein (per g dry pulp)
+
 `NSC` Proportion of non-structural carbohydrates (per g dry pulp)
+
 `ASH` Proportion of minerals (per g dry pulp)
+
 `FIB` Proportion of acid-detergent fiber (per g dry pulp)
 
 ### SPECIES LIST
@@ -111,150 +124,150 @@ This is the species list for the dataset, as December 2004.
 Family, and Species
 
 ANACARDIACEAE
-Anacardium giganteum
-Anacardium occidentale
-Poupartia amazonica
-Spondias tuberosa
+_Anacardium giganteum_, 
+_Anacardium occidentale_, 
+_Poupartia amazonica_, 
+_Spondias tuberosa
 
 ANNONACEAE
-Annona cacans
-Annona coriacea
-Annona crassiflora
-Annona densicoma
-Annona montana
-Annona muricata
-Rollinia mucosa
+_Annona cacans_, 
+_Annona coriacea_, 
+_Annona crassiflora_, 
+_Annona densicoma_, 
+_Annona montana_, 
+_Annona muricata_, 
+_Rollinia mucosa
 
 APOCYNACEAE
-Ambelania acida
+_Ambelania acida
 
 BOMBACACEAE
-Quararibea cordata
+_Quararibea cordata
 
 BROMELIACEAE
-Ananas ananassoides
-Ananas comosus
+_Ananas ananassoides_, 
+_Ananas comosus
 
 CARYOCARACEAE
-Caryocar brasiliense
-Caryocar microcarpum
-Caryocar villosum
+_Caryocar brasiliense_, 
+_Caryocar microcarpum_, 
+_Caryocar villosum
 
 CHRYSOBALANACEAE
-Couepia bracteosa
-Couepia subcordata
-Licania tomentosa
-Parinari montana
+_Couepia bracteosa_, 
+_Couepia subcordata_, 
+_Licania tomentosa_, 
+_Parinari montana
 
 FLACOURTIACEAE
-Carpotroche brasiliensis
+_Carpotroche brasiliensis
 
 GUTTIFERAE
-Platonia insignis
-Rheedia acuminata
-Rheedia macrophylla
+_Platonia insignis_, 
+_Rheedia acuminata_, 
+_Rheedia macrophylla
 
 HIPPOCRATEACEAE
-Salacia crassifolia
+_Salacia crassifolia
 
 HUMIRIACEAE
-Duckesia verrucosa
-Endopleura uchi
+_Duckesia verrucosa_, 
+_Endopleura uchi
 
 ICACINACEAE
-Poraqueiba paraensis
-Poraqueiba sericea
+_Poraqueiba paraensis_, 
+_Poraqueiba sericea
 
 LAURACEAE
-Persea americana
+_Persea americana
 
 LECYTHIDACEAE
-Couroupita guianensis
+_Couroupita guianensis
 
 LEGUMINOSAE
-Andira anthelmia
-Andira humilis
-Andira legalis
-Cassia leiandra
-Dipterix alata
-Dipterix odorata
-Geoffroea striata
-Hymenaea courbaril
-Hymenaea stigonocarpa
-Inga alba
-Inga cinnamomea
-Inga edulis
-Inga fagifolia
-Inga falcistipula
-Inga heterophyla
-Inga laurina
-Inga macrophylla
-Inga marginata
-Inga sessilis
-Inga thibaudiana
-Inga velutina
-Swartzia langsdorfii
-Swartzia macrostachya
-Swartzia oblata
+_Andira anthelmia_, 
+_Andira humilis_, 
+_Andira legalis_, 
+_Cassia leiandra_, 
+_Dipterix alata_, 
+_Dipterix odorata_, 
+_Geoffroea striata_, 
+_Hymenaea courbaril_, 
+_Hymenaea stigonocarpa_, 
+_Inga alba_, 
+_Inga cinnamomea_, 
+_Inga edulis_, 
+_Inga fagifolia_, 
+_Inga falcistipula_, 
+_Inga heterophyla_, 
+_Inga laurina_, 
+_Inga macrophylla_, 
+_Inga marginata_, 
+_Inga sessilis_, 
+_Inga thibaudiana_, 
+_Inga velutina_, 
+_Swartzia langsdorfii_, 
+_Swartzia macrostachya_, 
+_Swartzia oblata
 
 MYRTACEAE
-Eugenia cambucarana
-Eugenia klotzschiana
-Eugenia neoverrucosa
-Eugenia stipitata
+_Eugenia cambucarana_, 
+_Eugenia klotzschiana_, 
+_Eugenia neoverrucosa_, 
+_Eugenia stipitata
 
 ARECACEAE
-Acrocomia aculeata
-Acrocomia intumescens
-Allagoptera arenaria
-Allagoptera leucocalyx
-Astrocaryum aculeatissimum
-Astrocaryum aculeatum
-Astrocaryum murumuru
-Astrocaryum vulgare
-Attalea dahlgreniana
-Attalea dubia
-Manicaria saccifera
-Mauritia carana
-Mauritia flexuosa
-Maximiliana maripa
-Polyandrococos caudescens
-Scheelea phalerata
-Syagrus cearensis
-Syagrus cocoides
-Syagrus macrocarpa
-Syagrus oleracea
-Syagrus picrophylla
-Syagrus pseudococos
+_Acrocomia aculeata_, 
+_Acrocomia intumescens_, 
+_Allagoptera arenaria_, 
+_Allagoptera leucocalyx_, 
+_Astrocaryum aculeatissimum_, 
+_Astrocaryum aculeatum_, 
+_Astrocaryum murumuru_, 
+_Astrocaryum vulgare_, 
+_Attalea dahlgreniana_, 
+_Attalea dubia_, 
+_Manicaria saccifera_, 
+_Mauritia carana_, 
+_Mauritia flexuosa_, 
+_Maximiliana maripa_, 
+_Polyandrococos caudescens_, 
+_Scheelea phalerata_, 
+_Syagrus cearensis_, 
+_Syagrus cocoides_, 
+_Syagrus macrocarpa_, 
+_Syagrus oleracea_, 
+_Syagrus picrophylla_, 
+_Syagrus pseudococos
 
 QUINIIACEAE
-Lacunaria grandiflora
-Lacunaria jenmani
+_Lacunaria grandiflora_, 
+_Lacunaria jenmani
 
 RUBIACEAE
-Genipa americana
+_Genipa americana_
 
 SAPOTACEAE
-Achras sapota
-Pouteria caimito
-Pouteria grandiflora
-Pouteria macrocarpa
-Pouteria macrophylla
-Pouteria pachycalyx
-Pouteria pariry
-Pouteria ramiflora
-Pouteria speciosa
-Pouteria torta
-Pouteria venosa
-Duckeodendron cestroides
-Solanum licocarpum
+_Achras sapota_, 
+_Pouteria caimito_, 
+_Pouteria grandiflora_, 
+_Pouteria macrocarpa_, 
+_Pouteria macrophylla_, 
+_Pouteria pachycalyx_, 
+_Pouteria pariry_, 
+_Pouteria ramiflora_, 
+_Pouteria speciosa_, 
+_Pouteria torta_, 
+_Pouteria venosa_, 
+_Duckeodendron cestroides_, 
+_Solanum licocarpum
 
 STERCULIACEAE
-Theobroma bicolor
-Theobroma cacao
-Theobroma grandiflorum
-Theobroma obovatum
-Theobroma subincanum
+_Theobroma bicolor_, 
+_Theobroma cacao_, 
+_Theobroma grandiflorum_, 
+_Theobroma obovatum_, 
+_Theobroma subincanum
 
 
 ### ACKNOWLEDGEMENTS
