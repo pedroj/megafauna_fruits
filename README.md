@@ -53,20 +53,35 @@ Variable names in the Megafaunal Fruits Dataset
 
 
 `REF` Reference number - This is my maintenance code for updates.
+
 `NEWREF` New Reference number - These are the refs numbers in the files REFS and SUMMARY.
+
 `FAMLAB` Family Label - An 8-character label for family.
+
 `GENLAB` Genus Label - An 8-character label for genus.
+
 `SPLAB` Species Label - An 8-character label for species.
+
 `COD` Species code - A 5-character code for the species.
+
 `DISPCAT` Disperser type category - BIRDS, MIXED, MAMMALS.
+
 `DISP` Disperser type - Finer categorization. Not yet completed. Needs revision.
+
 `AREA` Geographic area - Major geographic areas of the data sources.
+
 `MEurope`: Mediterranean Europe (also includes Israel and Morocco.
+
 `NEurope`: Temperate and Northern Europe.
+
 `NAmerica`: North America, excl. Southern Mexico.
+
 `NTAmerica`: Neotropical America, incl. Southern Mexico.
+
 `Africa`: Africa, south of Sahara.
+
 `Australasia`: Australia, Malaysia, New Guinea, and whole SouthEast Asia.
+
 
 FRUIT Fruit type - Type of fruit. Not completed yet. Needs revision.
 LENG Fruit length (mm)
