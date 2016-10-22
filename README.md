@@ -1,5 +1,5 @@
-Megafauna Fruits Data
-=====================
+Megafauna Fruits Dataset
+========================
 
 This is the page for the Megafaunal Fruits database, a large dataset of fleshy fruit traits compiled for my collaborative work with Paulo R. Guimarães Jr. and Mauro Galetti. Data are provided for more than 100 plant species, mainly from Brazilian habitats. A photo gallery is [here](http://ebd10.ebd.csic.es/gallery/page10/).
 The dataset is also available in the [DRYAD Digital Repository](http://datadryad.org/handle/10255/dryad.43562) (please use this link when citing).
@@ -127,7 +127,7 @@ ANACARDIACEAE
 _Anacardium giganteum_, 
 _Anacardium occidentale_, 
 _Poupartia amazonica_, 
-_Spondias tuberosa
+_Spondias tuberosa_
 
 ANNONACEAE
 _Annona cacans_, 
@@ -136,53 +136,53 @@ _Annona crassiflora_,
 _Annona densicoma_, 
 _Annona montana_, 
 _Annona muricata_, 
-_Rollinia mucosa
+_Rollinia mucosa_
 
 APOCYNACEAE
-_Ambelania acida
+_Ambelania acida_
 
 BOMBACACEAE
-_Quararibea cordata
+_Quararibea cordata_
 
 BROMELIACEAE
 _Ananas ananassoides_, 
-_Ananas comosus
+_Ananas comosus_
 
 CARYOCARACEAE
 _Caryocar brasiliense_, 
 _Caryocar microcarpum_, 
-_Caryocar villosum
+_Caryocar villosum_
 
 CHRYSOBALANACEAE
 _Couepia bracteosa_, 
 _Couepia subcordata_, 
 _Licania tomentosa_, 
-_Parinari montana
+_Parinari montana_
 
 FLACOURTIACEAE
-_Carpotroche brasiliensis
+_Carpotroche brasiliensis_
 
 GUTTIFERAE
 _Platonia insignis_, 
 _Rheedia acuminata_, 
-_Rheedia macrophylla
+_Rheedia macrophylla_
 
 HIPPOCRATEACEAE
 _Salacia crassifolia
 
 HUMIRIACEAE
 _Duckesia verrucosa_, 
-_Endopleura uchi
+_Endopleura uchi_
 
 ICACINACEAE
 _Poraqueiba paraensis_, 
-_Poraqueiba sericea
+_Poraqueiba sericea_
 
 LAURACEAE
-_Persea americana
+_Persea americana_
 
 LECYTHIDACEAE
-_Couroupita guianensis
+_Couroupita guianensis_
 
 LEGUMINOSAE
 _Andira anthelmia_, 
@@ -208,13 +208,13 @@ _Inga thibaudiana_,
 _Inga velutina_, 
 _Swartzia langsdorfii_, 
 _Swartzia macrostachya_, 
-_Swartzia oblata
+_Swartzia oblata_
 
 MYRTACEAE
 _Eugenia cambucarana_, 
 _Eugenia klotzschiana_, 
 _Eugenia neoverrucosa_, 
-_Eugenia stipitata
+_Eugenia stipitata_
 
 ARECACEAE
 _Acrocomia aculeata_, 
@@ -238,11 +238,11 @@ _Syagrus cocoides_,
 _Syagrus macrocarpa_, 
 _Syagrus oleracea_, 
 _Syagrus picrophylla_, 
-_Syagrus pseudococos
+_Syagrus pseudococos_
 
 QUINIIACEAE
 _Lacunaria grandiflora_, 
-_Lacunaria jenmani
+_Lacunaria jenmani_
 
 RUBIACEAE
 _Genipa americana_
@@ -260,14 +260,14 @@ _Pouteria speciosa_,
 _Pouteria torta_, 
 _Pouteria venosa_, 
 _Duckeodendron cestroides_, 
-_Solanum licocarpum
+_Solanum licocarpum_
 
 STERCULIACEAE
 _Theobroma bicolor_, 
 _Theobroma cacao_, 
 _Theobroma grandiflorum_, 
 _Theobroma obovatum_, 
-_Theobroma subincanum
+_Theobroma subincanum_
 
 
 ### ACKNOWLEDGEMENTS
