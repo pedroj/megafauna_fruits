@@ -83,23 +83,26 @@ Variable names in the Megafaunal Fruits Dataset
 `Australasia`: Australia, Malaysia, New Guinea, and whole SouthEast Asia.
 
 
-FRUIT Fruit type - Type of fruit. Not completed yet. Needs revision.
-LENG Fruit length (mm)
-DIAM Fruit diameter (mm)
-FRFM Fruit fresh mass (g)
-PDM Dry mass of pulp per fruit (g)
-SDM Dry mass of seed(s) per fruit (g)
-SEEDS Number of seeds per fruit
-SEEDM Seed dry mass (g)
-RY Relative yield of pulp (PDM/FRFM*100)
-KJG Specific energy content of pulp (kJ/g)
-KJFR Total energy content per fruit (kJ)
-PCW Percent water content of fruit
-LIP Proportion of lipids (per g dry pulp)
-PRO Proportion of protein (per g dry pulp)
-NSC Proportion of non-structural carbohydrates (per g dry pulp)
-ASH Proportion of minerals (per g dry pulp)
-FIB Proportion of acid-detergent fiber (per g dry pulp)
+`FRUIT` Fruit type - Type of fruit. Not completed yet. Needs revision.
+
+`LENG` Fruit length (mm)
+
+`DIAM` Fruit diameter (mm)
+
+`FRFM` Fruit fresh mass (g)
+`PDM` Dry mass of pulp per fruit (g)
+`SDM` Dry mass of seed(s) per fruit (g)
+`SEEDS` Number of seeds per fruit
+`SEEDM` Seed dry mass (g)
+`RY` Relative yield of pulp (`PDM/FRFM*100`)
+`KJG` Specific energy content of pulp (kJ/g)
+`KJFR` Total energy content per fruit (kJ)
+`PCW` Percent water content of fruit
+`LIP` Proportion of lipids (per g dry pulp)
+`PRO` Proportion of protein (per g dry pulp)
+`NSC` Proportion of non-structural carbohydrates (per g dry pulp)
+`ASH` Proportion of minerals (per g dry pulp)
+`FIB` Proportion of acid-detergent fiber (per g dry pulp)
 
 ### SPECIES LIST
 
